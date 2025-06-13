@@ -40,7 +40,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Run the App
-streamlit run app.py
+streamlit run app1.py
 ```
 ## 📷 Output Screenshot
 
