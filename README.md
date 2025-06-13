@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 # Download spaCy model
 python -m spacy download en_core_web_sm
-
+```
 ## 📷 Output Screenshot
 
 Here is a preview of the AI Data Science Tutor app in action:
