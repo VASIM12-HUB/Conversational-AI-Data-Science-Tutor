@@ -39,12 +39,13 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install required packages
 pip install -r requirements.txt
 
-# Download spaCy model
-python -m spacy download en_core_web_sm
+# Run the App
+streamlit run app.py
 ```
 ## 📷 Output Screenshot
 
 Here is a preview of the AI Data Science Tutor app in action:
+
 ![App User](https://github.com/user-attachments/assets/c05678d4-f907-4e6c-b4ce-e42da140a9b8)
 
 ![Chat with AI Data Science Tutor](https://github.com/user-attachments/assets/b9862473-fdfa-4429-906d-7f537c28ca17)
